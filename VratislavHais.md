@@ -1,7 +1,6 @@
 Please DO NOT delete me (this line) and add 3 dots at the end...
 
-Please change me somehow.
-
+As you wish
 
 
 Your favorite fruit: ...
